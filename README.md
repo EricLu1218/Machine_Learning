@@ -1,6 +1,8 @@
 # Machine Learning
 These are "2022 NTHU EE655000 Machine Learning" course projects.
 
+<h3>⭐⭐⭐ IF THIS REPO HELPS YOU, PLEASE GIVE ME A STAR! ⭐⭐⭐</h3>
+
 ## Homework 1: Maximum A Posteriori Estimation
 Implement a Maximum A Posteriori (MAP) estimation to classify 54 instances into three types of wines.
 
