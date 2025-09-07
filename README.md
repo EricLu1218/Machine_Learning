@@ -1,5 +1,5 @@
 # Machine Learning
-These are "2022 NTHU EE655000 Machine Learning" course projects.
+These are "NTHU EE6550 Machine Learning" course projects.
 
 <h3>⭐⭐⭐ IF THIS REPO HELPS YOU, PLEASE GIVE ME A STAR! ⭐⭐⭐</h3>
 
